@@ -235,27 +235,32 @@ MAXX(
 # Dashboard Screenshots
 
 ## Executive Overview
-![Executive Overview](executive_overview.png)
+<img width="871" height="491" alt="image" src="https://github.com/user-attachments/assets/09831485-a253-4994-bdaf-5748ff9b4bfa" />
+
 
 ---
 
 ## Customer Analytics
-![Customer Analytics](customer_analytics.png)
+<img width="876" height="486" alt="image" src="https://github.com/user-attachments/assets/1ba49c90-c386-453d-9927-335115a0e13c" />
+
 
 ---
 
 ## Delivery & Operations Analysis
-![Delivery & Operations](delivery_operations.png)
+<img width="874" height="486" alt="image" src="https://github.com/user-attachments/assets/20e5492e-d14c-435c-ae01-b3af839ad957" />
+
 
 ---
 
 ## Product Performance Analysis
-![Product Performance](product_performance.png)
+<img width="876" height="485" alt="image" src="https://github.com/user-attachments/assets/f7a0027d-58c1-4d59-872e-49a92d34ffab" />
+
 
 ---
 
 ## Seller Performance Analysis
-![Seller Performance](seller_performance.png)
+<img width="873" height="485" alt="image" src="https://github.com/user-attachments/assets/4a7ff0bd-9368-4bd9-8455-2c49c3f66534" />
+
 
 ---
 
